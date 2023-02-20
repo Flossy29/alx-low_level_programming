@@ -3,7 +3,7 @@
 
 /**
  * main - returns a combination of numbers
- * Returns: return 0 if successful
+ * Return: return 0 (Success)
  */
 
 int main(void)
